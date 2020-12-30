@@ -1,0 +1,32 @@
+{
+    "countries":[
+        {
+            "name": "Slovakia",
+            "code": "SK"
+        },
+        {
+            "name": "Germany",
+            "code": "GE"
+        },
+        {
+            "name": "Austria",
+            "code": "AUS"
+        },
+        {
+            "name": "Poland",
+            "code": "PL"
+        },
+        {
+            "name": "Hungary",
+            "code": "HU"
+        },
+        {
+            "name": "Czechia",
+            "code": "CZ"
+        },
+        {
+            "name": "Ukraine",
+            "code": "UK"
+        }
+    ]
+}

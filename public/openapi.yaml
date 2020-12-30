@@ -1,0 +1,19 @@
+openapi: 3.0.3
+info:
+  description: Testing app for bakalarsky project
+  version: 1.0.1
+  title: Openshift python pod
+paths:
+  /:
+    get:
+      description: Greeting from server
+      responses:
+        '200':
+          description: Greeting message.
+  /countries:
+    get:
+      description: Load json with some countries aroung Slovakia
+      responses:
+        '200':
+          description: Json with countries.
+
